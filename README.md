@@ -1,4 +1,4 @@
-# Code Repository for EDM 2023
+# Code Repository for JEDM – Paper: Investigating Demographic Features and their Connection to Performance, Predictions, and Fairness in EDM Models
 
 To reproduce the results reported in the paper, one must:
 
